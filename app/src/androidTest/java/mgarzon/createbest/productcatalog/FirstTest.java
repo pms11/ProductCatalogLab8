@@ -22,7 +22,7 @@ import static org.hamcrest.CoreMatchers.anything;
 
 @RunWith(AndroidJUnit4.class)
     @LargeTest
-    public class FirstTest {
+    public class FirstTest  {
 
         private String mStringToBetyped;
         private String mNumberToBetyped;
